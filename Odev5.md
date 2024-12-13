@@ -18,5 +18,5 @@ Limit 5;
 Select * From customer 
 Where store_id = 1
 Order By last_name desc
-Limit 4
+Limit 4;
 ```
