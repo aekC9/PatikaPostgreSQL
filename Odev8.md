@@ -93,7 +93,7 @@ Set
 Where Id = 2
 Returning *;
 ```
-`Soru 4: `Sütunların her birine göre ilgili satırı silecek 5 adet DELETE işlemi yapalım.
+`Soru 4: `Sütunların her birine göre ilgili satırı silecek 3 adet DELETE işlemi yapalım.
 ```SQL
 Delete From employee
 Where Email = 'leinaudi@go.com';
